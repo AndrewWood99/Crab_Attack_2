@@ -4,7 +4,9 @@ Bullet-hell spaceship game I made in Scratch alongside teaching at the Boys and 
 
 ## Instructions to Play
 1. Download the Scratch2 offline editor exe from this website: https://scratch.cresst.org/download/scratch2
-     - or -
+     or -
 contact me at andrew99wood@gmail.com for the Scratch2 install exe
 
-2. Download the 
+2. Download the Crab Attack 2.sb2 file from this repository
+3. Open the .sb2 file directly in Scratch
+4. Use the arrow keys to move the spaceship, avoid attacks, collect power ups, and aim shots at enemy components
