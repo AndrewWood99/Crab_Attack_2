@@ -1,2 +1,7 @@
 # Crab_Attack_2
 Bullet-hell spaceship game I made in Scratch alongside teaching at the Boys and Girls Club for a summer
+![image](https://github.com/user-attachments/assets/d59492ef-a7e0-4374-a74e-3fd2729544c1)
+
+## Instructions to Play
+1. Download the Scratch2 offline editor exe from this repository
+2. Download the 
